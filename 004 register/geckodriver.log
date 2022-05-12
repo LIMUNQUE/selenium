@@ -1,0 +1,104 @@
+1652381012113	geckodriver	INFO	Listening on 127.0.0.1:50441
+1652381015170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileMmlkSc"
+1652381016155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileMmlkSc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50442/devtools/browser/54c5720a-b58f-48f9-8791-09d38075eeec
+1652381022500	Marionette	INFO	Listening on port 50470
+Read port: 50470
+1652381022618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652381032187	Marionette	INFO	Stopped listening on port 50470
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+1652381867442	geckodriver	INFO	Listening on 127.0.0.1:50663
+1652381870505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilelgfmQg"
+1652381871608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilelgfmQg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50664/devtools/browser/cee7f7ff-3969-48a8-9302-b9719ebeccaf
+1652381879047	Marionette	INFO	Listening on port 50692
+Read port: 50692
+1652381879166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652381900271	Marionette	INFO	Stopped listening on port 50692
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652381949235	geckodriver	INFO	Listening on 127.0.0.1:50737
+1652381952274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofile54LxTD"
+1652381952916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofile54LxTD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50738/devtools/browser/6076c53d-e4d3-4eb0-bec8-e701a1a077ba
+1652381958306	Marionette	INFO	Listening on port 50765
+Read port: 50765
+1652381958459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652381969819	Marionette	INFO	Stopped listening on port 50765
+1652382011370	geckodriver	INFO	Listening on 127.0.0.1:50814
+1652382014376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilewjYYoo"
+1652382015178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilewjYYoo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50815/devtools/browser/9210d078-c8dc-4756-9708-779a6109b691
+1652382020971	Marionette	INFO	Listening on port 50839
+Read port: 50839
+1652382021115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652382037002	Marionette	INFO	Stopped listening on port 50839
+[Parent 8520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652382080828	geckodriver	INFO	Listening on 127.0.0.1:50888
+1652382083869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofile9gdjl1"
+1652382084687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofile9gdjl1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50889/devtools/browser/6ddcd168-f024-417a-9e87-c09d18581e3d
+1652382090020	Marionette	INFO	Listening on port 50914
+Read port: 50914
+1652382090145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652382102141	Marionette	INFO	Stopped listening on port 50914
+[Parent 9776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

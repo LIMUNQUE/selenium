@@ -1,0 +1,192 @@
+1652368968304	geckodriver	INFO	Listening on 127.0.0.1:50384
+1652368971408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileb5yYt2"
+1652368972403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileb5yYt2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50385/devtools/browser/80e406cb-9643-44b2-af04-fb9369d2455f
+1652368977788	Marionette	INFO	Listening on port 50409
+Read port: 50409
+1652368977910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652368984070	Marionette	INFO	Stopped listening on port 50409
+1652368986530	geckodriver	INFO	Listening on 127.0.0.1:50446
+1652368989569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileGPki1L"
+1652368990272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileGPki1L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50447/devtools/browser/96be4aa3-5bd8-43ba-b307-01153e3dbf73
+1652368995322	Marionette	INFO	Listening on port 50471
+Read port: 50471
+1652368995445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369000960	Marionette	INFO	Stopped listening on port 50471
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369003196	geckodriver	INFO	Listening on 127.0.0.1:50504
+1652369006253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilehVETWz"
+1652369006872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilehVETWz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50505/devtools/browser/c7955eae-303c-43dd-be42-44bdd701decc
+1652369011897	Marionette	INFO	Listening on port 50529
+Read port: 50529
+1652369011976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369130146	geckodriver	INFO	Listening on 127.0.0.1:50583
+1652369133205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileJ7HWWO"
+1652369133845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileJ7HWWO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50584/devtools/browser/84333bcf-1b20-4bce-8eb8-7c6c7f3b904e
+1652369138509	Marionette	INFO	Listening on port 50608
+Read port: 50608
+1652369138587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369147563	Marionette	INFO	Stopped listening on port 50608
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652369150033	geckodriver	INFO	Listening on 127.0.0.1:50642
+1652369153023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileDUrEJs"
+1652369153756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileDUrEJs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50643/devtools/browser/623e29df-1f28-43d7-b447-68604000252d
+1652369158210	Marionette	INFO	Listening on port 50666
+Read port: 50666
+1652369158324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369164881	Marionette	INFO	Stopped listening on port 50666
+[Parent 12384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369167362	geckodriver	INFO	Listening on 127.0.0.1:50700
+1652369170429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofile1sIdEX"
+1652369171134	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofile1sIdEX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50701/devtools/browser/46ea0fd4-a4cb-423d-9ac0-e836b535b723
+1652369176325	Marionette	INFO	Listening on port 50726
+Read port: 50726
+1652369176487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369197154	Marionette	INFO	Stopped listening on port 50726
+1652369287308	geckodriver	INFO	Listening on 127.0.0.1:50775
+1652369290366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileHaue7A"
+1652369290992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileHaue7A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50776/devtools/browser/1559203b-0f37-4dd4-853e-82c7e69fb286
+1652369295501	Marionette	INFO	Listening on port 50800
+Read port: 50800
+1652369295645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369302493	Marionette	INFO	Stopped listening on port 50800
+[Parent 8036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369319309	geckodriver	INFO	Listening on 127.0.0.1:50838
+1652369322366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilezr7Kj1"
+1652369322935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilezr7Kj1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50839/devtools/browser/a1ef6e25-8cc6-4ee4-8982-558eb80136b7
+1652369327536	Marionette	INFO	Listening on port 50863
+Read port: 50863
+1652369327662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369336437	Marionette	INFO	Stopped listening on port 50863
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369338849	geckodriver	INFO	Listening on 127.0.0.1:50897
+1652369341887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilezEZqSs"
+1652369342496	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilezEZqSs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50898/devtools/browser/364e2157-cb36-4bbe-94d3-fa5a6a3c817e
+1652369347034	Marionette	INFO	Listening on port 50922
+Read port: 50922
+1652369347187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369352422	Marionette	INFO	Stopped listening on port 50922
+[Parent 12884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369354700	geckodriver	INFO	Listening on 127.0.0.1:50955
+1652369357734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileiBHrpB"
+1652369358341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileiBHrpB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50956/devtools/browser/793b0d58-467e-4b11-943b-706f7c5b1906
+1652369362631	Marionette	INFO	Listening on port 50980
+Read port: 50980
+1652369362715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369369635	Marionette	INFO	Stopped listening on port 50980
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369451019	geckodriver	INFO	Listening on 127.0.0.1:51032
+1652369454066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilefbnPW4"
+1652369454751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilefbnPW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51033/devtools/browser/773c4764-68e1-4b8d-87f2-85d5d987aca1
+1652369459509	Marionette	INFO	Listening on port 51059
+Read port: 51059
+1652369459586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369464847	Marionette	INFO	Stopped listening on port 51059
+1652369467488	geckodriver	INFO	Listening on 127.0.0.1:51093
+1652369470503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilePRjMDr"
+1652369471148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilePRjMDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51094/devtools/browser/c0fdd569-47b1-4d92-8d5d-bc032feaa360
+1652369475645	Marionette	INFO	Listening on port 51119
+Read port: 51119
+1652369475817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369481040	Marionette	INFO	Stopped listening on port 51119
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369483573	geckodriver	INFO	Listening on 127.0.0.1:51154
+1652369486602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileHxRFrh"
+1652369487215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileHxRFrh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51155/devtools/browser/8e7a0d68-6ac9-4fe2-a96c-2d8d26b1fecb
+1652369491357	Marionette	INFO	Listening on port 51178
+Read port: 51178
+1652369491430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369498135	Marionette	INFO	Stopped listening on port 51178
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369510054	geckodriver	INFO	Listening on 127.0.0.1:51215
+1652369513117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilesediVb"
+1652369513756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilesediVb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51216/devtools/browser/263ee72e-60a7-4c34-86a0-872b40d817f8
+1652369518277	Marionette	INFO	Listening on port 51241
+Read port: 51241
+1652369518386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652369529297	Marionette	INFO	Stopped listening on port 51241
+[Parent 12732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652369707714	geckodriver	INFO	Listening on 127.0.0.1:51302
+1652369710792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileRumNz9"
+1652369711393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileRumNz9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51303/devtools/browser/eafe2aa7-867a-46e8-a1dd-1f87b581c590
+1652369715904	Marionette	INFO	Listening on port 51327
+Read port: 51327
+1652369715973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://demo-store.seleniumacademy.com"
+1652369721320	Marionette	INFO	Stopped listening on port 51327
+[Parent 12936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
