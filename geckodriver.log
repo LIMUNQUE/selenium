@@ -1,0 +1,21 @@
+1652308987730	geckodriver	INFO	Listening on 127.0.0.1:50853
+1652308990772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilemPXoBz"
+1652308992738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofilemPXoBz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50854/devtools/browser/fa69731f-7681-4451-b2b2-b5393601a7bb
+1652309005082	Marionette	INFO	Listening on port 50885
+Read port: 50885
+1652309005432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652309015009	Marionette	INFO	Stopped listening on port 50885
+1652309019852	geckodriver	INFO	Listening on 127.0.0.1:50916
+1652309022838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileYmxdHv"
+1652309024282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joshua\\AppData\\Local\\Temp\\rust_mozprofileYmxdHv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50917/devtools/browser/134e01d0-5c43-4fff-a897-a5bee798fd89
+1652309035060	Marionette	INFO	Listening on port 50945
+Read port: 50945
+1652309035293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1652309044084	Marionette	INFO	Stopped listening on port 50945
+[Parent 2544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
