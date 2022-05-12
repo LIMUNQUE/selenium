@@ -19,22 +19,9 @@ PyUnitReport: For generating reports
 Aditionally, you have to download the driver of the browser that you will use.
 
 -------------
-####Structure
 
-Indented 4 spaces, like `<pre>` (Preformatted Text).
-
-    <?
-        echo "Hello world!";
-    ?>
-    
-Code Blocks (Preformatted text):
-
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
-
-####Structure with decorators　
+###Structure with decorators
+　
 
 ```python
 import unittest
