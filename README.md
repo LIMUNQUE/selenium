@@ -16,6 +16,8 @@ PyUnitReport: For generating reports
 `
 `$ pip install pyunitreport`
 
+or use pip install -r requirements.txt  to install them 
+
 Aditionally, you have to download the driver of the browser that you will use.
 
 -------------
